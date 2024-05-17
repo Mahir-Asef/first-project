@@ -1,5 +1,4 @@
 {
-    "proseWrap": "never",
-    "quoteProps": "consistent",
-    "trailingComma": "es5"
-  }
+  "semi": true,
+  "singleQuote": true
+}
